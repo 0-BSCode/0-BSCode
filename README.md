@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" /> Hi, I'm Bryan
 </h1>
 
-<p align="center">I build <b>information retrieval systems</b> — for people and for machines.</p>
+<p align="center">I build <b>information retrieval systems</b> for people and machines.</p>
 
 ## 🧰 Stack
 
@@ -46,8 +46,12 @@
 
 <br />
 
- 👋 Connect
+<div align="center">
 
-<a href="mailto:bipsanchez.work@gmail.com">![Email](https://img.shields.io/badge/bipsanchez.work@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)</a>
+### 🕯️ → 🕯️ → 🕯️ → 💡
 
-<a href="https://www.linkedin.com/in/bryan-sanchez-b316b7203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryan sanchez" height="30" width="40" /></a>
+> **“The electric light did not come from the continuous improvement of candles.”**
+
+<sub>Question the framing, not just the implementation.</sub>
+
+</div>
